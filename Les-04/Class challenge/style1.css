@@ -1,0 +1,18 @@
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;}
+header {text-align: center;}
+
+.section1{text-align: center}
+
+main header {
+    text-align: center;}
+
+body {
+    font-family: "Futura";
+    background-color: rgb(236, 252, 204);
+    font-size: 18px;}
+   
+   
