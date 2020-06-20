@@ -1,0 +1,90 @@
+*{margin: 0;}
+
+    main{   width: 800x;
+        height: 800px;}
+body {
+font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: 12px;
+    font-weight: 400;
+    background-color:snow;
+  }
+Header{ background-color: #E0E4FF;}
+
+  .section.1{
+      text-align: center}
+
+
+.cropped1 {
+
+    width: 1382px;
+    height: 529px; 
+    object-fit: cover;
+    text-align: center;
+
+   
+}
+
+.section6{text-align: center}
+
+.cropped2 {
+
+    width: 329px;
+    height: 279px; 
+    object-fit: cover;
+    text-align: center;
+   
+}
+.div{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+  }
+
+.cropped3 {
+
+    width: 329px;
+    height: 279px; 
+    object-fit: cover;
+    text-align: center;
+   
+}
+H2{ background-color: #E0E4FF;}
+
+
+.tm-section-4 {
+    padding: 0px;
+    padding-top: 100px;
+    padding-bottom: 80px;}
+
+
+.section.2 {
+    background-color: #E0E4FF;
+    width: 956px;
+    height: 680px;}
+
+header {
+    text-align: center;}
+
+
+.section.3 {
+  background-color: #E0E4FF;
+  width: 956px;
+  height: 680px;}
+
+  style>
+/* Style the element with the id "Geleerd" */
+#Geleerd {
+  text-align: center;
+}
+
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+  }
+
+li {    text-align: center;}
+ul{text-align: center;"}
+1
+#footer{background-position: 50% 90%;}
